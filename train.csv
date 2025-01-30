@@ -1,0 +1,67 @@
+ticket_ID,ticket_subject,ticket_body,department,type,priority,language
+1001,Discrepancia de facturación en Google Workspace,"Estimado equipo de soporte de TI,
+
+Estoy escribiendo para informar un monto de facturación incorrecto en mi suscripción de Google Workspace Business Standard bajo la cuenta <acc_num>. Por favor, revise y ajuste la factura. Espero su pronta respuesta.
+
+Saludos,
+
+<name>",Billing and Payments,Incident,low,es
+1002,Urgent Consultation Request for Critical IT Issues,"Dear IT Services Support Team, I hope this message finds you well. My name is <name> and I am currently experiencing critical issues with our server administration, which are significantly impacting our operations. We rely heavily on your IT Consulting Service for our ongoing technical needs. Therefore, we urgently need your expert assistance to resolve these issues as quickly as possible. Time is of the essence because our operations have come to a standstill. Please contact us at your earliest convenience, either via email or phone at <tel_num>. The swift resolution of this situation is imperative to minimize any further disruption to our business. Thank you for your prompt attention to this matter. Kind regards, <name>",Customer Service,Request,high,en
+1003,Consulta sobre Servicios de Consultoría en TI,"Estimado Servicio de Atención al Cliente,
+
+Mi nombre es <name>, y estoy interesado en obtener más información sobre sus Servicios de Consultoría en TI, centrándome específicamente en el desarrollo de software y la administración de servidores. Agradecería información detallada sobre los servicios ofrecidos, precios y proceso de compromiso. ¿Podría proporcionarme esta información o direccionarme a un representante que pueda ayudarme con mi consulta?
+
+Gracias por su asistencia.
+
+Atentamente,
+
+<name>
+<tel_num>
+<email_address>",General Inquiry,Request,medium,es
+1004,Demande de mise à jour des dossiers,"Cher service client, 
+
+Je vous écris pour demander une mise à jour de notre système de gestion des dossiers des employés en accord avec nos opérations de service de conseil en informatique en cours. Le système actuel nécessite des améliorations pour maximiser l'efficacité et garantir une intégration harmonieuse avec notre infrastructure informatique existante. Dans le cadre de cette demande, nous souhaiterions discuter de l'étendue des services et de toute exigence supplémentaire nécessaire à la mise en œuvre de ces mises à jour.
+
+Veuillez me faire savoir un moment approprié pour une discussion détaillée. Nous vous remercions de votre assistance rapide dans cette affaire. 
+
+Merci, 
+
+<name>
+<acc_num>",Human Resources,Change,low,fr
+1005,Issues with Slack connection affecting team communication today,"Dear Customer Support Team,
+
+I am encountering challenges when attempting to activate my Kaspersky Internet Security 2024 product. Despite adhering to the suggested guidelines, I am still facing complications. My account number is <acc_num>. Could you kindly assist me with the activation process at your earliest opportunity? You can reach me at <tel_num> or through email at <email>.
+
+Thank you for your swift support.
+
+Sincerely,
+<name>",Product Support,Problem,medium,en
+1006,Defective Dell XPS 13 9310,"Dear Tech Online Store Support,
+
+I received a Dell XPS 13 9310 with a defective display. Please arrange an exchange at the earliest convenience. My order number is <order_num>. Feel free to contact me at <email> or <tel_num> if you need further information.
+
+Best,
+<name>",Returns and Exchanges,Incident,low,en
+1007,Touchscreen and Keyboard Issues with Surface Pro 7,"Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to bring to your attention some issues I have been experiencing with my recently purchased Microsoft Surface Pro 7. The main problems concern the touchscreen response and the detachable keyboard connection. 
+
+Since purchase, the touchscreen functionality has been inconsistent, often failing to register my touch inputs accurately. This inconsistency significantly affects the usability of the device, as I primarily rely on the touch feature for my day-to-day tasks.
+
+Furthermore, the detachable keyboard frequently disconnects from the device at random intervals. I have tried several troubleshooting steps including resetting the device, updating drivers, and even reattaching the keyboard several times per day. Despite these efforts, the problem persists. 
+
+Given the challenges detailed above, I am kindly requesting assistance in resolving these issues. I trust that you may have encountered similar problems and possibly have solutions or processes in place to address them effectively. Please let me know how to proceed or if a replacement is necessary. 
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+<name>",Sales and Pre-Sales,Problem,medium,en
+1008,AWS-Serverausfall,"Sehr geehrte Kundenbetreuung,
+
+wir hatten einen unerwarteten Ausfall unserer AWS-Server, was zu erheblichen Konnektivitätsproblemen geführt hat. Die Störung hat die Datenabfrage und die Sichtbarkeit der Server für unseren AWS-Managementdienst beeinträchtigt. Sofortige Unterstützung ist dringend erforderlich.
+
+Danke,
+
+<name>",Service Outages and Maintenance,Incident,high,de
+1009,Solicitud urgente de orientación y solución de problemas,"Estimado soporte al cliente, espero que este mensaje le encuentre bien. Me pongo en contacto para solicitar urgentemente su experiencia en orientación sobre desarrollo de software y solución de problemas del servidor como parte de nuestro actual proyecto de consultoría de TI. Hemos encontrado algunos problemas críticos que están afectando negativamente nuestros plazos del proyecto. Específicamente, nuestro equipo está enfrentando desafíos con la integración del nuevo software con nuestros sistemas existentes, lo que ha llevado a tiempos de inactividad inesperados y retrasos en el rendimiento. Además, ha habido problemas persistentes de conectividad del servidor que no podemos resolver por nuestra cuenta, obstaculizando la entrega fluida de nuestros servicios. Su pronta asistencia en el diagnóstico y rectificación de estos problemas sería inmensamente beneficiosa. Confiamos en su amplia experiencia y destreza técnica para ayudarnos a superar estos obstáculos rápidamente. ¿Podría también organizar una consulta con su desarrollador líder a la mayor brevedad posible? Nuestro objetivo es resolver estos problemas lo más rápido posible para minimizar cualquier retraso adicional en el proyecto y garantizar una experiencia fluida para el cliente. Gracias por su atención inmediata a este asunto. Espero su respuesta rápida. Saludos cordiales, <name>",Technical Support,Request,high,es
