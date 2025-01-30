@@ -1,0 +1,501 @@
+ticket_ID,department,type,priority,language
+1,Customer Service,Request,low,de
+2,Billing and Payments,Incident,high,it
+3,Customer Service,Request,low,de
+4,Billing and Payments,Incident,high,it
+5,Customer Service,Request,low,de
+6,Billing and Payments,Incident,high,it
+7,Customer Service,Request,low,de
+8,Billing and Payments,Incident,high,it
+9,Customer Service,Request,low,de
+10,Billing and Payments,Incident,high,it
+11,Customer Service,Request,low,de
+12,Billing and Payments,Incident,high,it
+13,Customer Service,Request,low,de
+14,Billing and Payments,Incident,high,it
+15,Customer Service,Request,low,de
+16,Billing and Payments,Incident,high,it
+17,Customer Service,Request,low,de
+18,Billing and Payments,Incident,high,it
+19,Customer Service,Request,low,de
+20,Billing and Payments,Incident,high,it
+21,Customer Service,Request,low,de
+22,Billing and Payments,Incident,high,it
+23,Customer Service,Request,low,de
+24,Billing and Payments,Incident,high,it
+25,Customer Service,Request,low,de
+26,Billing and Payments,Incident,high,it
+27,Customer Service,Request,low,de
+28,Billing and Payments,Incident,high,it
+29,Customer Service,Request,low,de
+30,Billing and Payments,Incident,high,it
+31,Customer Service,Request,low,de
+32,Billing and Payments,Incident,high,it
+33,Customer Service,Request,low,de
+34,Billing and Payments,Incident,high,it
+35,Customer Service,Request,low,de
+36,Billing and Payments,Incident,high,it
+37,Customer Service,Request,low,de
+38,Billing and Payments,Incident,high,it
+39,Customer Service,Request,low,de
+40,Billing and Payments,Incident,high,it
+41,Customer Service,Request,low,de
+42,Billing and Payments,Incident,high,it
+43,Customer Service,Request,low,de
+44,Billing and Payments,Incident,high,it
+45,Customer Service,Request,low,de
+46,Billing and Payments,Incident,high,it
+47,Customer Service,Request,low,de
+48,Billing and Payments,Incident,high,it
+49,Customer Service,Request,low,de
+50,Billing and Payments,Incident,high,it
+51,Customer Service,Request,low,de
+52,Billing and Payments,Incident,high,it
+53,Customer Service,Request,low,de
+54,Billing and Payments,Incident,high,it
+55,Customer Service,Request,low,de
+56,Billing and Payments,Incident,high,it
+57,Customer Service,Request,low,de
+58,Billing and Payments,Incident,high,it
+59,Customer Service,Request,low,de
+60,Billing and Payments,Incident,high,it
+61,Customer Service,Request,low,de
+62,Billing and Payments,Incident,high,it
+63,Customer Service,Request,low,de
+64,Billing and Payments,Incident,high,it
+65,Customer Service,Request,low,de
+66,Billing and Payments,Incident,high,it
+67,Customer Service,Request,low,de
+68,Billing and Payments,Incident,high,it
+69,Customer Service,Request,low,de
+70,Billing and Payments,Incident,high,it
+71,Customer Service,Request,low,de
+72,Billing and Payments,Incident,high,it
+73,Customer Service,Request,low,de
+74,Billing and Payments,Incident,high,it
+75,Customer Service,Request,low,de
+76,Billing and Payments,Incident,high,it
+77,Customer Service,Request,low,de
+78,Billing and Payments,Incident,high,it
+79,Customer Service,Request,low,de
+80,Billing and Payments,Incident,high,it
+81,Customer Service,Request,low,de
+82,Billing and Payments,Incident,high,it
+83,Customer Service,Request,low,de
+84,Billing and Payments,Incident,high,it
+85,Customer Service,Request,low,de
+86,Billing and Payments,Incident,high,it
+87,Customer Service,Request,low,de
+88,Billing and Payments,Incident,high,it
+89,Customer Service,Request,low,de
+90,Billing and Payments,Incident,high,it
+91,Customer Service,Request,low,de
+92,Billing and Payments,Incident,high,it
+93,Customer Service,Request,low,de
+94,Billing and Payments,Incident,high,it
+95,Customer Service,Request,low,de
+96,Billing and Payments,Incident,high,it
+97,Customer Service,Request,low,de
+98,Billing and Payments,Incident,high,it
+99,Customer Service,Request,low,de
+100,Billing and Payments,Incident,high,it
+101,Customer Service,Request,low,de
+102,Billing and Payments,Incident,high,it
+103,Customer Service,Request,low,de
+104,Billing and Payments,Incident,high,it
+105,Customer Service,Request,low,de
+106,Billing and Payments,Incident,high,it
+107,Customer Service,Request,low,de
+108,Billing and Payments,Incident,high,it
+109,Customer Service,Request,low,de
+110,Billing and Payments,Incident,high,it
+111,Customer Service,Request,low,de
+112,Billing and Payments,Incident,high,it
+113,Customer Service,Request,low,de
+114,Billing and Payments,Incident,high,it
+115,Customer Service,Request,low,de
+116,Billing and Payments,Incident,high,it
+117,Customer Service,Request,low,de
+118,Billing and Payments,Incident,high,it
+119,Customer Service,Request,low,de
+120,Billing and Payments,Incident,high,it
+121,Customer Service,Request,low,de
+122,Billing and Payments,Incident,high,it
+123,Customer Service,Request,low,de
+124,Billing and Payments,Incident,high,it
+125,Customer Service,Request,low,de
+126,Billing and Payments,Incident,high,it
+127,Customer Service,Request,low,de
+128,Billing and Payments,Incident,high,it
+129,Customer Service,Request,low,de
+130,Billing and Payments,Incident,high,it
+131,Customer Service,Request,low,de
+132,Billing and Payments,Incident,high,it
+133,Customer Service,Request,low,de
+134,Billing and Payments,Incident,high,it
+135,Customer Service,Request,low,de
+136,Billing and Payments,Incident,high,it
+137,Customer Service,Request,low,de
+138,Billing and Payments,Incident,high,it
+139,Customer Service,Request,low,de
+140,Billing and Payments,Incident,high,it
+141,Customer Service,Request,low,de
+142,Billing and Payments,Incident,high,it
+143,Customer Service,Request,low,de
+144,Billing and Payments,Incident,high,it
+145,Customer Service,Request,low,de
+146,Billing and Payments,Incident,high,it
+147,Customer Service,Request,low,de
+148,Billing and Payments,Incident,high,it
+149,Customer Service,Request,low,de
+150,Billing and Payments,Incident,high,it
+151,Customer Service,Request,low,de
+152,Billing and Payments,Incident,high,it
+153,Customer Service,Request,low,de
+154,Billing and Payments,Incident,high,it
+155,Customer Service,Request,low,de
+156,Billing and Payments,Incident,high,it
+157,Customer Service,Request,low,de
+158,Billing and Payments,Incident,high,it
+159,Customer Service,Request,low,de
+160,Billing and Payments,Incident,high,it
+161,Customer Service,Request,low,de
+162,Billing and Payments,Incident,high,it
+163,Customer Service,Request,low,de
+164,Billing and Payments,Incident,high,it
+165,Customer Service,Request,low,de
+166,Billing and Payments,Incident,high,it
+167,Customer Service,Request,low,de
+168,Billing and Payments,Incident,high,it
+169,Customer Service,Request,low,de
+170,Billing and Payments,Incident,high,it
+171,Customer Service,Request,low,de
+172,Billing and Payments,Incident,high,it
+173,Customer Service,Request,low,de
+174,Billing and Payments,Incident,high,it
+175,Customer Service,Request,low,de
+176,Billing and Payments,Incident,high,it
+177,Customer Service,Request,low,de
+178,Billing and Payments,Incident,high,it
+179,Customer Service,Request,low,de
+180,Billing and Payments,Incident,high,it
+181,Customer Service,Request,low,de
+182,Billing and Payments,Incident,high,it
+183,Customer Service,Request,low,de
+184,Billing and Payments,Incident,high,it
+185,Customer Service,Request,low,de
+186,Billing and Payments,Incident,high,it
+187,Customer Service,Request,low,de
+188,Billing and Payments,Incident,high,it
+189,Customer Service,Request,low,de
+190,Billing and Payments,Incident,high,it
+191,Customer Service,Request,low,de
+192,Billing and Payments,Incident,high,it
+193,Customer Service,Request,low,de
+194,Billing and Payments,Incident,high,it
+195,Customer Service,Request,low,de
+196,Billing and Payments,Incident,high,it
+197,Customer Service,Request,low,de
+198,Billing and Payments,Incident,high,it
+199,Customer Service,Request,low,de
+200,Billing and Payments,Incident,high,it
+201,Customer Service,Request,low,de
+202,Billing and Payments,Incident,high,it
+203,Customer Service,Request,low,de
+204,Billing and Payments,Incident,high,it
+205,Customer Service,Request,low,de
+206,Billing and Payments,Incident,high,it
+207,Customer Service,Request,low,de
+208,Billing and Payments,Incident,high,it
+209,Customer Service,Request,low,de
+210,Billing and Payments,Incident,high,it
+211,Customer Service,Request,low,de
+212,Billing and Payments,Incident,high,it
+213,Customer Service,Request,low,de
+214,Billing and Payments,Incident,high,it
+215,Customer Service,Request,low,de
+216,Billing and Payments,Incident,high,it
+217,Customer Service,Request,low,de
+218,Billing and Payments,Incident,high,it
+219,Customer Service,Request,low,de
+220,Billing and Payments,Incident,high,it
+221,Customer Service,Request,low,de
+222,Billing and Payments,Incident,high,it
+223,Customer Service,Request,low,de
+224,Billing and Payments,Incident,high,it
+225,Customer Service,Request,low,de
+226,Billing and Payments,Incident,high,it
+227,Customer Service,Request,low,de
+228,Billing and Payments,Incident,high,it
+229,Customer Service,Request,low,de
+230,Billing and Payments,Incident,high,it
+231,Customer Service,Request,low,de
+232,Billing and Payments,Incident,high,it
+233,Customer Service,Request,low,de
+234,Billing and Payments,Incident,high,it
+235,Customer Service,Request,low,de
+236,Billing and Payments,Incident,high,it
+237,Customer Service,Request,low,de
+238,Billing and Payments,Incident,high,it
+239,Customer Service,Request,low,de
+240,Billing and Payments,Incident,high,it
+241,Customer Service,Request,low,de
+242,Billing and Payments,Incident,high,it
+243,Customer Service,Request,low,de
+244,Billing and Payments,Incident,high,it
+245,Customer Service,Request,low,de
+246,Billing and Payments,Incident,high,it
+247,Customer Service,Request,low,de
+248,Billing and Payments,Incident,high,it
+249,Customer Service,Request,low,de
+250,Billing and Payments,Incident,high,it
+251,Customer Service,Request,low,de
+252,Billing and Payments,Incident,high,it
+253,Customer Service,Request,low,de
+254,Billing and Payments,Incident,high,it
+255,Customer Service,Request,low,de
+256,Billing and Payments,Incident,high,it
+257,Customer Service,Request,low,de
+258,Billing and Payments,Incident,high,it
+259,Customer Service,Request,low,de
+260,Billing and Payments,Incident,high,it
+261,Customer Service,Request,low,de
+262,Billing and Payments,Incident,high,it
+263,Customer Service,Request,low,de
+264,Billing and Payments,Incident,high,it
+265,Customer Service,Request,low,de
+266,Billing and Payments,Incident,high,it
+267,Customer Service,Request,low,de
+268,Billing and Payments,Incident,high,it
+269,Customer Service,Request,low,de
+270,Billing and Payments,Incident,high,it
+271,Customer Service,Request,low,de
+272,Billing and Payments,Incident,high,it
+273,Customer Service,Request,low,de
+274,Billing and Payments,Incident,high,it
+275,Customer Service,Request,low,de
+276,Billing and Payments,Incident,high,it
+277,Customer Service,Request,low,de
+278,Billing and Payments,Incident,high,it
+279,Customer Service,Request,low,de
+280,Billing and Payments,Incident,high,it
+281,Customer Service,Request,low,de
+282,Billing and Payments,Incident,high,it
+283,Customer Service,Request,low,de
+284,Billing and Payments,Incident,high,it
+285,Customer Service,Request,low,de
+286,Billing and Payments,Incident,high,it
+287,Customer Service,Request,low,de
+288,Billing and Payments,Incident,high,it
+289,Customer Service,Request,low,de
+290,Billing and Payments,Incident,high,it
+291,Customer Service,Request,low,de
+292,Billing and Payments,Incident,high,it
+293,Customer Service,Request,low,de
+294,Billing and Payments,Incident,high,it
+295,Customer Service,Request,low,de
+296,Billing and Payments,Incident,high,it
+297,Customer Service,Request,low,de
+298,Billing and Payments,Incident,high,it
+299,Customer Service,Request,low,de
+300,Billing and Payments,Incident,high,it
+301,Customer Service,Request,low,de
+302,Billing and Payments,Incident,high,it
+303,Customer Service,Request,low,de
+304,Billing and Payments,Incident,high,it
+305,Customer Service,Request,low,de
+306,Billing and Payments,Incident,high,it
+307,Customer Service,Request,low,de
+308,Billing and Payments,Incident,high,it
+309,Customer Service,Request,low,de
+310,Billing and Payments,Incident,high,it
+311,Customer Service,Request,low,de
+312,Billing and Payments,Incident,high,it
+313,Customer Service,Request,low,de
+314,Billing and Payments,Incident,high,it
+315,Customer Service,Request,low,de
+316,Billing and Payments,Incident,high,it
+317,Customer Service,Request,low,de
+318,Billing and Payments,Incident,high,it
+319,Customer Service,Request,low,de
+320,Billing and Payments,Incident,high,it
+321,Customer Service,Request,low,de
+322,Billing and Payments,Incident,high,it
+323,Customer Service,Request,low,de
+324,Billing and Payments,Incident,high,it
+325,Customer Service,Request,low,de
+326,Billing and Payments,Incident,high,it
+327,Customer Service,Request,low,de
+328,Billing and Payments,Incident,high,it
+329,Customer Service,Request,low,de
+330,Billing and Payments,Incident,high,it
+331,Customer Service,Request,low,de
+332,Billing and Payments,Incident,high,it
+333,Customer Service,Request,low,de
+334,Billing and Payments,Incident,high,it
+335,Customer Service,Request,low,de
+336,Billing and Payments,Incident,high,it
+337,Customer Service,Request,low,de
+338,Billing and Payments,Incident,high,it
+339,Customer Service,Request,low,de
+340,Billing and Payments,Incident,high,it
+341,Customer Service,Request,low,de
+342,Billing and Payments,Incident,high,it
+343,Customer Service,Request,low,de
+344,Billing and Payments,Incident,high,it
+345,Customer Service,Request,low,de
+346,Billing and Payments,Incident,high,it
+347,Customer Service,Request,low,de
+348,Billing and Payments,Incident,high,it
+349,Customer Service,Request,low,de
+350,Billing and Payments,Incident,high,it
+351,Customer Service,Request,low,de
+352,Billing and Payments,Incident,high,it
+353,Customer Service,Request,low,de
+354,Billing and Payments,Incident,high,it
+355,Customer Service,Request,low,de
+356,Billing and Payments,Incident,high,it
+357,Customer Service,Request,low,de
+358,Billing and Payments,Incident,high,it
+359,Customer Service,Request,low,de
+360,Billing and Payments,Incident,high,it
+361,Customer Service,Request,low,de
+362,Billing and Payments,Incident,high,it
+363,Customer Service,Request,low,de
+364,Billing and Payments,Incident,high,it
+365,Customer Service,Request,low,de
+366,Billing and Payments,Incident,high,it
+367,Customer Service,Request,low,de
+368,Billing and Payments,Incident,high,it
+369,Customer Service,Request,low,de
+370,Billing and Payments,Incident,high,it
+371,Customer Service,Request,low,de
+372,Billing and Payments,Incident,high,it
+373,Customer Service,Request,low,de
+374,Billing and Payments,Incident,high,it
+375,Customer Service,Request,low,de
+376,Billing and Payments,Incident,high,it
+377,Customer Service,Request,low,de
+378,Billing and Payments,Incident,high,it
+379,Customer Service,Request,low,de
+380,Billing and Payments,Incident,high,it
+381,Customer Service,Request,low,de
+382,Billing and Payments,Incident,high,it
+383,Customer Service,Request,low,de
+384,Billing and Payments,Incident,high,it
+385,Customer Service,Request,low,de
+386,Billing and Payments,Incident,high,it
+387,Customer Service,Request,low,de
+388,Billing and Payments,Incident,high,it
+389,Customer Service,Request,low,de
+390,Billing and Payments,Incident,high,it
+391,Customer Service,Request,low,de
+392,Billing and Payments,Incident,high,it
+393,Customer Service,Request,low,de
+394,Billing and Payments,Incident,high,it
+395,Customer Service,Request,low,de
+396,Billing and Payments,Incident,high,it
+397,Customer Service,Request,low,de
+398,Billing and Payments,Incident,high,it
+399,Customer Service,Request,low,de
+400,Billing and Payments,Incident,high,it
+401,Customer Service,Request,low,de
+402,Billing and Payments,Incident,high,it
+403,Customer Service,Request,low,de
+404,Billing and Payments,Incident,high,it
+405,Customer Service,Request,low,de
+406,Billing and Payments,Incident,high,it
+407,Customer Service,Request,low,de
+408,Billing and Payments,Incident,high,it
+409,Customer Service,Request,low,de
+410,Billing and Payments,Incident,high,it
+411,Customer Service,Request,low,de
+412,Billing and Payments,Incident,high,it
+413,Customer Service,Request,low,de
+414,Billing and Payments,Incident,high,it
+415,Customer Service,Request,low,de
+416,Billing and Payments,Incident,high,it
+417,Customer Service,Request,low,de
+418,Billing and Payments,Incident,high,it
+419,Customer Service,Request,low,de
+420,Billing and Payments,Incident,high,it
+421,Customer Service,Request,low,de
+422,Billing and Payments,Incident,high,it
+423,Customer Service,Request,low,de
+424,Billing and Payments,Incident,high,it
+425,Customer Service,Request,low,de
+426,Billing and Payments,Incident,high,it
+427,Customer Service,Request,low,de
+428,Billing and Payments,Incident,high,it
+429,Customer Service,Request,low,de
+430,Billing and Payments,Incident,high,it
+431,Customer Service,Request,low,de
+432,Billing and Payments,Incident,high,it
+433,Customer Service,Request,low,de
+434,Billing and Payments,Incident,high,it
+435,Customer Service,Request,low,de
+436,Billing and Payments,Incident,high,it
+437,Customer Service,Request,low,de
+438,Billing and Payments,Incident,high,it
+439,Customer Service,Request,low,de
+440,Billing and Payments,Incident,high,it
+441,Customer Service,Request,low,de
+442,Billing and Payments,Incident,high,it
+443,Customer Service,Request,low,de
+444,Billing and Payments,Incident,high,it
+445,Customer Service,Request,low,de
+446,Billing and Payments,Incident,high,it
+447,Customer Service,Request,low,de
+448,Billing and Payments,Incident,high,it
+449,Customer Service,Request,low,de
+450,Billing and Payments,Incident,high,it
+451,Customer Service,Request,low,de
+452,Billing and Payments,Incident,high,it
+453,Customer Service,Request,low,de
+454,Billing and Payments,Incident,high,it
+455,Customer Service,Request,low,de
+456,Billing and Payments,Incident,high,it
+457,Customer Service,Request,low,de
+458,Billing and Payments,Incident,high,it
+459,Customer Service,Request,low,de
+460,Billing and Payments,Incident,high,it
+461,Customer Service,Request,low,de
+462,Billing and Payments,Incident,high,it
+463,Customer Service,Request,low,de
+464,Billing and Payments,Incident,high,it
+465,Customer Service,Request,low,de
+466,Billing and Payments,Incident,high,it
+467,Customer Service,Request,low,de
+468,Billing and Payments,Incident,high,it
+469,Customer Service,Request,low,de
+470,Billing and Payments,Incident,high,it
+471,Customer Service,Request,low,de
+472,Billing and Payments,Incident,high,it
+473,Customer Service,Request,low,de
+474,Billing and Payments,Incident,high,it
+475,Customer Service,Request,low,de
+476,Billing and Payments,Incident,high,it
+477,Customer Service,Request,low,de
+478,Billing and Payments,Incident,high,it
+479,Customer Service,Request,low,de
+480,Billing and Payments,Incident,high,it
+481,Customer Service,Request,low,de
+482,Billing and Payments,Incident,high,it
+483,Customer Service,Request,low,de
+484,Billing and Payments,Incident,high,it
+485,Customer Service,Request,low,de
+486,Billing and Payments,Incident,high,it
+487,Customer Service,Request,low,de
+488,Billing and Payments,Incident,high,it
+489,Customer Service,Request,low,de
+490,Billing and Payments,Incident,high,it
+491,Customer Service,Request,low,de
+492,Billing and Payments,Incident,high,it
+493,Customer Service,Request,low,de
+494,Billing and Payments,Incident,high,it
+495,Customer Service,Request,low,de
+496,Billing and Payments,Incident,high,it
+497,Customer Service,Request,low,de
+498,Billing and Payments,Incident,high,it
+499,Customer Service,Request,low,de
+500,Billing and Payments,Incident,high,it
